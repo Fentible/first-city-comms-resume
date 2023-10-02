@@ -17,7 +17,7 @@ phone = "07774614029"
 profileImage = "img/TechChat.png"
 showQr = false
 showContact = true
-sections = ["skills", "experience"]
+sections = ["skills", "testimonials"]
 
 
 # [params.google]
